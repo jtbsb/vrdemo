@@ -1,0 +1,6 @@
+[defaults]
+project=bps-web
+org=sentry
+url=https://monitor.aiyouyi.cn/
+[auth]
+token=6069d0f21ecd4feb8889969b9f68403ab7c177997a6f4942a0c01439aa6c39f0
