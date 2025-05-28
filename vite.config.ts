@@ -112,7 +112,7 @@ export default defineConfig((mode): any => {
 
     // Rollup 的自定义构建选项
     build: {
-      outDir: "dist",
+      outDir: "docs",
       chunkSizeWarningLimit: 2000,
       rollupOptions: {
         output: {
