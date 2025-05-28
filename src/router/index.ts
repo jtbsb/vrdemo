@@ -12,7 +12,7 @@ export const constantRoutesOther: RouteRecordRaw[] = [
   {
     path: "/",
     name: "Home",
-    redirect: "/agreementManage/index"
+    redirect: "/vr"
   },
   {
     path: "/vr",
