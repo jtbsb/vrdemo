@@ -19,6 +19,7 @@ const prefix = "pre-"
 export default defineConfig((mode): any => {
   console.log("mode.mode:", mode.mode)
   return {
+    base: "./",
     define: {
       "process.env.VUE_APP_DATETIME": timestamp
     },
