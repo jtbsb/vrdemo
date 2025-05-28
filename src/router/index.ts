@@ -21,7 +21,7 @@ export const constantRoutesOther: RouteRecordRaw[] = [
   },
   {
     path: "/login",
-    component: LoginView, // 使用静态导入替换动态导入
+    component: Vr, // 使用静态导入替换动态导入
     name: "Login",
     meta: {
       hidden: true,
